@@ -1,6 +1,6 @@
 <p align="center" style="margin-bottom: 0px !important;">
 </p>
-<h1 align="center" style="margin-top: 0px;">News Tracker</h1>
+<h1 align="center" style="margin-top: 0px;">News Tracker Application</h1>
 
 <p align="center" >Web Application for reading News</p>
 
@@ -15,6 +15,11 @@
 
 * [Proposed solution](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20I/PROPOSED%20SOLUTION.docx)
 * [Problem solution FIT](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20I/PROBLEM%20SOLUTION%20FIT.pdf)
-* [SOLUTION ARCHITECTURE.](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20I/SOLUTION%20ARCHITECTURE.pdf)
+* [Solution Architecture](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20I/SOLUTION%20ARCHITECTURE.pdf)
 
+## Project design phase-II
+
+* [Customer Journey](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20II/CUSTOMER%20JOURNEY.pdf)
+* [Levels of Data](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20II/LEVELS_OF_DATA.pdf)
+* [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-38407-     1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20II/TECHNOLOGY%20ARCHITECTURE.pdf.pdf)
 
