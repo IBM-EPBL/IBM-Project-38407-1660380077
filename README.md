@@ -2,7 +2,7 @@
 </p>
 <h1 align="center" style="margin-top: 0px;">News Tracker Application</h1>
 
-<p align="center" >Web Application for reading News.`web2.0`</p>
+<p align="center" >Web Application for reading News.` web2.0 `</p>
 
 ## Ideation Phase
 
