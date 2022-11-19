@@ -35,4 +35,4 @@
 
 ## VIDEO DEMO
 
-* [WATCH HERE!](https://www.canva.com/design/DAFSZ_Z1geY/ocMmStbTJOkS-ODVt7FTCQ/watch)
+* [WATCH HERE](https://www.canva.com/design/DAFSZ_Z1geY/ocMmStbTJOkS-ODVt7FTCQ/watch)
