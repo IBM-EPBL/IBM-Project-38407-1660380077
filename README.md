@@ -31,8 +31,8 @@
 
 ## REPORT
 
-*[DOCUMENTATION](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/REPORT.pdf)
+* [DOCUMENTATION](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/REPORT.pdf)
 
 ## VIDEO DEMO
 
-*[WATCH HERE!](https://www.canva.com/design/DAFSZ_Z1geY/ocMmStbTJOkS-ODVt7FTCQ/watch)
+* [WATCH HERE!](https://www.canva.com/design/DAFSZ_Z1geY/ocMmStbTJOkS-ODVt7FTCQ/watch)
