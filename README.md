@@ -4,6 +4,9 @@
 
 <p align="center" >Web Application for Reading News. 'WEB 2.0 🤞' </p>
 
+<p align="center" >Team ID: PNT2022TMID03392</p>
+<p align="center" >Batch ID: B1-1M3E</p>
+
 ## Ideation Phase
 
 * [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-22781-1659858111/blob/main/Phases/Ideation%20Phase/Literature_Survey.pdf)
