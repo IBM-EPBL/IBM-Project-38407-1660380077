@@ -3,9 +3,8 @@
 <h1 align="center" style="margin-top: 0px;">News Tracker Application</h1>
 
 <p align="center" >Web Application for Reading News. 'WEB 2.0 🤞' </p>
+<p align="center" >Team ID: PNT2022TMID03392,Batch ID: B1-1M3E</p>
 
-<p align="center" >Team ID: PNT2022TMID03392</p>
-<p align="center" >Batch ID: B1-1M3E</p>
 
 ## Ideation Phase
 
