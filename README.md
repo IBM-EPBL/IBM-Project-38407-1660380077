@@ -31,6 +31,14 @@
 * [Milestone and Activity List](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/project%20planning%20phrase/Milestone%20and%20Activity%20List.docx)
 * [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/project%20planning%20phrase/Sprint%20Delivery%20Plan%20(1).docx)
 
+## Project Development Phase
+
+* [Sprint_1](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%201)
+* [Sprint_2](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%202)
+* [Sprint_3](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%203)
+* [Sprint_4](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%204)
+
+
 ## REPORT
 
 * [DOCUMENTATION](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/REPORT.pdf)
