@@ -23,3 +23,16 @@
 * [Levels of Data](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20II/LEVELS_OF_DATA.pdf)
 * [Technology Architecture](https://github.com/IBM-EPBL/IBM-Project-384071660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20II/TECHNOLOGY%20ARCHITECTURE.pdf.pdf)
 * [Functional Requirements](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/PROJECT%20DESIGN%20PHASE%20%E2%80%93%20II/Functional%20Requirement.pdf)
+
+## PROJECT PLANNING PHASE
+
+* [Milestone and Activity List](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/project%20planning%20phrase/Milestone%20and%20Activity%20List.docx)
+* [Sprint Delivery Plan](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/project%20planning%20phrase/Sprint%20Delivery%20Plan%20(1).docx)
+
+## REPORT
+
+*[DOCUMENTATION](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/blob/main/REPORT.pdf)
+
+## VIDEO DEMO
+
+*[WATCH HERE!](https://www.canva.com/design/DAFSZ_Z1geY/ocMmStbTJOkS-ODVt7FTCQ/watch)
