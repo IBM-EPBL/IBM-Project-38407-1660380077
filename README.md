@@ -33,10 +33,10 @@
 
 ## Project Development Phase
 
-* [Sprint_1](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%201)
-* [Sprint_2](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%202)
-* [Sprint_3](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%203)
-* [Sprint_4](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%204)
+* [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%201)
+* [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%202)
+* [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%203)
+* [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-38407-1660380077/tree/main/Project%20Development%20Phase/Sprint%204)
 
 
 ## REPORT
